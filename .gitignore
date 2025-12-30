@@ -1,0 +1,9 @@
+data/sales.csv
+data/purchases.csv
+inventory.db
+*.db
+*.csv
+.ipynb_checkpoints/
+__pycache__/
+.vscode/
+logs/
